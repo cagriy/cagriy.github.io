@@ -1,6 +1,6 @@
 title: "Phase Shift"
 author: "Cagri"
-description: "AI, Tech, Consciousness, Ethics. My be a bit of each, maybe none." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "AI, Tech, Consciousness, Ethics. It may be a bit of each, maybe none." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -18,7 +18,8 @@ github_username: "cagriy"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+remote_theme: pages-themes/slate@v0.2.0
 
 rss: rss
 
@@ -29,6 +30,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 titles_from_headings:
   strip_title: true
