@@ -37,7 +37,7 @@ if [[ -f "$FILENAME" ]]; then
   exit 1
 fi
 
-IMAGE_VALUE="${IMAGE:+/assets/images/${IMAGE}}"
+IMAGE_VALUE="${IMAGE}"
 
 cat > "$FILENAME" <<EOF
 ---
