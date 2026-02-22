@@ -8,7 +8,7 @@ categories:
 tags:
   - sample
   - syntax-highlighting
-image: fork.jpg
+image: lake1.jpg
 ---
 
 This is a sample blog post demonstrating syntax highlighting and basic formatting.
