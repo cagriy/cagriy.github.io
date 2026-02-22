@@ -1,11 +1,14 @@
 ---
+layout: post
 title: "Sample Post"
+author: "Cagri"
 date: 2021-03-08
 categories:
   - Demo
 tags:
   - sample
   - syntax-highlighting
+image:
 ---
 
 This is a sample blog post demonstrating syntax highlighting and basic formatting.

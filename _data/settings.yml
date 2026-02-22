@@ -1,0 +1,25 @@
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+google-ID: ''
+
+menu:
+- {name: 'About',   url: 'about.html'}
+- {name: 'Writing', url: 'writing.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+social:
+- {icon: 'github',     link: 'https://www.github.com/cagriy'}
+- {icon: 'envelope',   link: 'mailto:'}
+- {icon: 'rss-square', link: '/feed.xml'}
+
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'

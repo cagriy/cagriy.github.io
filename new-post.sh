@@ -37,27 +37,21 @@ if [[ -f "$FILENAME" ]]; then
   exit 1
 fi
 
-# Build front matter
-FRONT_MATTER="---
-title: \"${TITLE}\"
+IMAGE_VALUE="${IMAGE:+/assets/images/${IMAGE}}"
+
+cat > "$FILENAME" <<EOF
+---
+layout: post
+title: "${TITLE}"
+author: "Cagri"
 date: ${DATE}
 categories:
   - Uncategorized
 tags:
-  - []"
-
-if [[ -n "$IMAGE" ]]; then
-  FRONT_MATTER="${FRONT_MATTER}
-header:
-  overlay_image: /assets/images/${IMAGE}
-  overlay_filter: 0.5"
-fi
-
-FRONT_MATTER="${FRONT_MATTER}
+  - []
+image: ${IMAGE_VALUE}
 ---
 
-"
-
-echo "${FRONT_MATTER}" > "$FILENAME"
+EOF
 
 echo "Created: $FILENAME"
