@@ -54,7 +54,7 @@ You hear a seasoned software engineer saying, "I had a look, a bit hit and miss,
 
 **Exceptionalism - OK, it's good, but it'll never replace what humans do.**
 
-At the beginning of this month, in February 2026, $285 billion was wiped off the valuation of legal firms when the markets realised that Claude Cowork could draft legal documents successfully. The concerns quickly spread to the software development firms, pushing the losses to near $1 trillion. The implication was clear: if AI could rebuild what already existed, faster and cheaper, what exactly were those firms going to sell?
+At the beginning of this month, in February 2026, \$285 billion was wiped off the valuation of legal firms when the markets realised that Claude Cowork could draft legal documents successfully. The concerns quickly spread to the software development firms, pushing the losses to near \$1 trillion. The implication was clear: if AI could rebuild what already existed, faster and cheaper, what exactly were those firms going to sell?
 
 ---
 
