@@ -10,7 +10,7 @@ tags:
   - ego
   - speed
   - fight
-image: lw1.jpg
+image: lw2.jpg
 ---
 Mark﹡ is a maintainer of a popular open-source software project. On a cold February morning, black coffee in hand, he settled at his desk to review the latest contributions from the community. The second one caught his eye. The code was clean, well-structured, and ready to merge. But something about the contributor's profile made him pause. They were not human.
 
