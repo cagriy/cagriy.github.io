@@ -11,6 +11,8 @@ permalink:   /:title
 markdown:    kramdown
 highlighter: rouge
 
+google_site_verification: "2Agx8qHJT61GC2nhDgDIONypd9LAbSexhjKqoaLHQy0"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
